@@ -1,0 +1,13 @@
+{
+  "host": "smtp.office365.com",
+  "port": 587,
+  "secure": false,
+  "auth": {
+    "user": "alertaspubliturno@confiar.coop",
+    "pass": "Alertapubliturno.2024*" 
+  },
+  "tls": {
+    "ciphers": "SSLv3"
+  },
+  "emailFromToSend": "alertaspubliturno@confiar.coop"
+}
